@@ -35,7 +35,7 @@ A Flutter-based e-commerce application that demonstrates a complete production-l
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/quick_buy.git
+   git clone https://github.com/nikhar-tale/QuickBuy.git
    cd quick_buy
 
 2. **Install Dependencies**:  
