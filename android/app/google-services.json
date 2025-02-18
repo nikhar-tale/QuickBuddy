@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590681255702",
+    "project_id": "my-quick-buy",
+    "storage_bucket": "my-quick-buy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590681255702:android:2df020bf939604d01d2a37",
+        "android_client_info": {
+          "package_name": "com.example.quick_buy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGcTpARCDBY0rvEsxU2MFEl2D69i2H8cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
